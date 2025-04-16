@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Yoga Recommendation System</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Yoga Recommendation System</h1>
+        <form action="/recommend" method="post">
+            <div class="form-group">
+                <label for="problem">Enter your pain condition:</label>
+                <input type="text" class="form-control" id="problem" name="problem" required>
+            </div>
+            <button type="submit" class="btn btn-primary">Get Recommendations</button>
+        </form>
+
+        <div id="recommendations">
+            {% if recommendations %}
+                <h2>Recommended Solutions:</h2>
+                <ul>
+                    {% for recommendation in recommendations %}
+                        <h3>Problem: {{ recommendation.problem }}</h3>
+                        <p>Solutions:</p>
+                        <ul>
+                            {% for solution in recommendation.solutions %}
+                                <li>
+                                    <strong>{{ solution.solution }}</strong><br>
+                                    <a href="{{ solution.google_link }}" target="_blank">Find Images on Google</a> | 
+                                    <a href="{{ solution.youtube_link }}" target="_blank">Watch on YouTube</a>
+                                </li>
+                            {% endfor %}
+                        </ul>
+                    {% endfor %}
+                </ul>
+                <button onclick="startPoseDetection()" class="btn btn-success">Start Pose Detection</button>
+            {% endif %}
+        </div>
+    </div>
+
+    <script>
+        function startPoseDetection() {
+            // Redirect to the pose detection functionality
+            window.location.href = "/pose_detection";  // Update this route as needed
+        }
+    </script>
+</body>
+</html>

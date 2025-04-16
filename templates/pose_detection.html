@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pose Detection Results</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Pose Detection Results</h1>
+        <div id="results">
+            <h2>Your Performance:</h2>
+            <p>{{ performance_feedback }}</p>
+            <img src="{{ pose_image }}" alt="Pose Image" style="width:300px;">
+        </div>
+        <a href="/" class="btn btn-primary">Back to Recommendations</a>
+    </div>
+</body>
+</html>

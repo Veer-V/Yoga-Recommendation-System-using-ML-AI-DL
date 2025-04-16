@@ -1,0 +1,317 @@
+{
+    "poses": [
+      {
+        "problem": "tension headache",
+        "solution": [
+          "Nadi Shodhana (Alternate Nostril Breathing)",
+          "Half-Circles of the Neck",
+          "Cow/Cat Poses (Bitilasana and Marjaryasana)",
+          "Mountain Pose (Tadasana) at the Wall",
+          "Plank Pose (Phalakasana)",
+          "Supported Fish Pose (Salamba Matsyasana)",
+          "Relaxation Pose (Savasana)"
+        ]
+      },
+      {
+        "problem": "migraine",
+        "solution": [
+          "Sookshma Vyayama (loosening exercises) (daily)",
+          "Fingers, wrist, elbows, shoulder rotation",
+          "Neck flexion/extension",
+          "Neck rotation",
+          "Padasanchalana",
+          "Hand stretch breathing",
+          "Sashankasana breathing",
+          "Shavasana with breath awareness",
+          "Yogasanas (daily)",
+          "Suryanamaskar-2 rounds",
+          "Padahasthasana",
+          "Ardha chakrasana",
+          "Trikonasana",
+          "Bhujangasana",
+          "Vakrasana",
+          "Ustrasana",
+          "Shavasana-Yoga Nidra or deep relaxation technique"
+        ]
+      },
+      {
+        "problem": "cluster headache",
+        "solution": [
+          "Pranayama (Breathing Exercises)",
+          "Meditation",
+          "Restorative Asana or Flowing Movement",
+          "Combination with Medicine"
+        ]
+      },
+      {
+        "problem": "Sinus headache",
+        "solution": [
+          "Cobra pose (Bhujangasana)",
+          "Camel pose (Ustrasana)",
+          "Cat-cow pose",
+          "Plow pose",
+          "Savasana"
+        ]
+      },
+      {
+        "problem": "Conjunctivitis (pink/red eyes)",
+        "solution": [
+          "Palming",
+          "Eye rotation",
+          "Focus shifting",
+          "Blinking"
+        ]
+      },
+      {
+        "problem": "Glaucoma",
+        "solution": [
+          "Naukasana (Boat Pose)",
+          "Sukhasana (Happy Pose)",
+          "Vajrasana (Diamond Pose)",
+          "Anulom Vilom (Alternate Nostril Breathing)",
+          "Jyoti-Trataka",
+          "Diaphragmatic Breathing"
+        ]
+      },
+      {
+        "problem": "Toothache",
+        "solution": [
+          "Child's Pose",
+          "Fish Pose",
+          "Lion's Breath",
+          "Bridge Pose",
+          "Khechari Mudra",
+          "Shetkari Pranayama",
+          "Tongue Movement",
+          "Meditation Focused Breathing"
+        ]
+      },
+      {
+        "problem": "Tooth Abscess",
+        "solution": [
+          "Cobra Pose",
+          "Khechari Mudra",
+          "Shetkari Pranayama"
+        ]
+      },
+      {
+        "problem": "Jaw Pain",
+        "solution": [
+          "Jaw Opening",
+          "Shoulder Stand",
+          "Towel Mobilization",
+          "Breathing"
+        ]
+      },
+      {
+        "problem": "Ear Pain",
+        "solution": [
+          "Makarasana (Crocodile Pose)",
+          "Seated Forward Bend",
+          "Standing Forward Bend",
+          "Downward-Facing Dog",
+          "Kumbhak",
+          "Shunya Mudra",
+          "Greeva Chalan"
+        ]
+      },
+      {
+        "problem": "Gastritis or acid reflux",
+        "solution": [
+          "Reclined Cobbler’s Pose (Supta Baddha Konasana)",
+          "Warrior 1 (Veera Bhadrasana)",
+          "Triangle Pose (Trikonasana)",
+          "Thunderbolt Pose (Vajrasana)",
+          "Legs-up-on-the-wall pose (Viparita Karani)"
+        ]
+      },
+      {
+        "problem": "Hiccups",
+        "solution": [
+          "Apana Vayu Mudra",
+          "Diaphragm Exercises",
+          "Surya Namaskar",
+          "Pranayama"
+        ]
+      },
+      {
+        "problem": "Gallstones",
+        "solution": {
+          "Yoga Poses for Gallstones Pain Relief": [
+            "Bhujangasana (Cobra Pose)",
+            "Sarvangasana (Shoulder Stand)",
+            "Shalabhasana (Locust Pose)",
+            "Dhanurasana (Bow Pose)",
+            "Supta Matsyendrasana (Spinal Twists)",
+            "Narayan Pose"
+          ],
+          "Additional Beneficial Asanas": [
+            "Madukasana",
+            "Vakarasana",
+            "Ardha Matsyendrasana",
+            "Gomukhasana",
+            "Pawanmuktasana",
+            "Kati Chakrasana",
+            "Trikonasana",
+            "Paschimottanasana (Seated Forward Bend)",
+            "Chakrasana",
+            "Halasana"
+          ],
+          "Pranayama for Gallstone Pain Relief": [
+            "Kapalbhati",
+            "Agnisar",
+            "Bahiya Pranayama",
+            "Anulom Vilom",
+            "Ujjayi Pranayama"
+          ]
+        }
+      },
+      {
+        "problem": "Appendicitis",
+        "solution": [
+          "Uddiyana and Nauli",
+          "Sirshasana and Sarvangasana"
+        ]
+      },
+      {
+        "problem": "Poor posture",
+        "solution": [
+          "Bhujangasana",
+          "Marjaryasana",
+          "Balasana",
+          "Adho Mukha Svanasana",
+          "Phalakasana",
+          "Dhanurasana",
+          "Marjaryasana-Bitilasana"
+        ]
+      },
+      {
+        "problem": "Cervical spine issues",
+        "solution": [
+          "Uttana Shishosana",
+          "Marjaryasana-Bitilasana",
+          "Balasana",
+          "Setu Bandhasana",
+          "Adho Mukha Svanasana",
+          "Uttanasana"
+        ]
+      },
+      {
+        "problem": "Throbbing pain",
+        "solution": [
+          "Hasta Utanasana",
+          "Savasana",
+          "Makarasana",
+          "Anulom-Vilom",
+          "Kapal Randhra Dhauti, Kapal Bhati, Jal Neti",
+          "Hastapadasana",
+          "Viparitkarni",
+          "Yoga Mudra",
+          "Wrist Rotation",
+          "Elbow Bends",
+          "Shoulder Rotations",
+          "Neck Bends",
+          "Neck Rotations"
+        ]
+      },
+      {
+        "problem": "Stress",
+        "solution": [
+          "Balasana",
+          "Setu Bandhasana",
+          "Marjaryasana-Bitilasana",
+          "Trikonasana",
+          "Uttanasana",
+          "Sukhasana",
+          "Adho Mukha Svanasana",
+          "Savasana",
+          "Anulom-Vilom",
+          "Bhramari Pranayama",
+          "Dhyana",
+          "Smṛti"
+        ]
+      },
+      {
+        "problem": "Muscle tension",
+        "solution": [
+          "Marjaryasana-Bitilasana",
+          "Anjaneyasana",
+          "Eka Pada Rajakapotasana",
+          "Supta Matsyendrasana",
+          "Viparita Karani",
+          "Adho Mukha Svanasana",
+          "Balasana",
+          "Uttanasana",
+          "Surya Namaskar"
+        ]
+      },
+      {
+        "problem": "Occipital headaches",
+        "solution": [
+          "Balasana",
+          "Marjaryasana-Bitilasana",
+          "Paschimottanasana",
+          "Viparita Karani",
+          "Savasana",
+          "Padmasana"
+        ]
+      },
+      {
+        "problem": "Neck muscle pain",
+        "solution": [
+          "Balasana",
+          "Marjaryasana-Bitilasana",
+          "Adho Mukha Svanasana",
+          "Setu Bandhasana",
+          "Natarajasana",
+          "Uttanasana",
+          "Virabhadrasana I & II",
+          "Gomukhasana",
+          "Parsva Balasana",
+          "Bhujangasana"
+        ]
+      },
+      {
+        "problem": "Facet joint pain in neck",
+        "solution": [
+          "Marjaryasana-Bitilasana",
+          "Bhujangasana",
+          "Balasana",
+          "Parsva Balasana",
+          "Sukhasana with neck stretches",
+          "Garudasana Arms",
+          "Uttanasana",
+          "Supta Matsyendrasana",
+          "Setu Bandhasana",
+          "Matsyasana",
+          "Virabhadrasana I",
+          "Utthita Trikonasana",
+          "Supta Matsyendrasana"
+        ]
+      },
+      {
+        "problem": "Nerve related neck pain and problem",
+        "solution": [
+          "Marjaryasana-Bitilasana",
+          "Uttana Shishosana",
+          "Balasana",
+          "Setu Bandhasana",
+          "Adho Mukha Svanasana"
+        ]
+      },
+      {
+        "problem": "Referred pain in neck",
+        "solution": [
+          "Neck Stretches",
+          "Forward and Backward Bends",
+          "Side Tilts",
+          "Neck Rotations",
+          "Shoulder Rolls",
+          "Marjaryasana-Bitilasana",
+          "Balasana",
+          "Bhujangasana",
+          "Adho Mukha Svanasana"
+        ]
+      }
+    ]
+}
